@@ -1,0 +1,26 @@
+[
+  {
+    "admin": "1",
+    "access": "true",
+    "name": "sunsand"
+  },
+  {
+    "admin": "2",
+    "access": "true",
+    "name": "metalman"
+  },
+  {
+    "admin": "3",
+    "access": "true",
+    "name": "godman"
+  },
+  {
+    "admin": "4",
+    "access": "true",
+    "name": "core"
+  },
+  {
+    "admin": "5",
+    "access": "false"
+  }  
+]
