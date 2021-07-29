@@ -21,7 +21,12 @@
   },
   {
     "admin": "5",
+    "access": "true",
+    "name": "admin"
+  },
+  {
+    "admin": "6",
     "access": "false",
     "name": "admin"
-  }  
+  }
 ]
